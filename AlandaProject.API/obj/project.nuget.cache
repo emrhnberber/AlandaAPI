@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FNxq6M7xm8E=",
+  "dgSpecHash": "HbXnWSJUIow=",
   "success": true,
   "projectFilePath": "C:\\VisualStudioProjeleri\\AlandaAPI\\AlandaProject.API\\AlandaProject.API.csproj",
   "expectedPackageFiles": [
@@ -62,7 +62,8 @@
     "C:\\Users\\berbe\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\berbe\\.nuget\\packages\\system.text.encodings.web\\9.0.1\\system.text.encodings.web.9.0.1.nupkg.sha512",
     "C:\\Users\\berbe\\.nuget\\packages\\system.text.json\\9.0.1\\system.text.json.9.0.1.nupkg.sha512",
-    "C:\\Users\\berbe\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+    "C:\\Users\\berbe\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
+    "C:\\Users\\berbe\\.nuget\\packages\\system.threading.ratelimiting\\9.0.1\\system.threading.ratelimiting.9.0.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -13,7 +13,8 @@
           "Microsoft.EntityFrameworkCore.Tools": "9.0.1",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.3",
           "Swashbuckle.AspNetCore": "6.6.2",
-          "System.IdentityModel.Tokens.Jwt": "8.3.1"
+          "System.IdentityModel.Tokens.Jwt": "8.3.1",
+          "System.Threading.RateLimiting": "9.0.1"
         },
         "runtime": {
           "AlandaProject.API.dll": {}
@@ -800,7 +801,15 @@
           }
         }
       },
-      "System.Threading.Channels/7.0.0": {}
+      "System.Threading.Channels/7.0.0": {},
+      "System.Threading.RateLimiting/9.0.1": {
+        "runtime": {
+          "lib/net8.0/System.Threading.RateLimiting.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.124.61010"
+          }
+        }
+      }
     }
   },
   "libraries": {
@@ -1221,6 +1230,13 @@
       "sha512": "sha512-qmeeYNROMsONF6ndEZcIQ+VxR4Q/TX/7uIVLJqtwIWL7dDWeh0l1UIqgo4wYyjG//5lUNhwkLDSFl+pAWO6oiA==",
       "path": "system.threading.channels/7.0.0",
       "hashPath": "system.threading.channels.7.0.0.nupkg.sha512"
+    },
+    "System.Threading.RateLimiting/9.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JyuDub2JSkvZzzfC2y4ciS7Eioug5Sn9boNJzSxCQatMrKULHxp8syNlWwAtQbk+ajqZyDc0HL+hK9Rb1w8gpA==",
+      "path": "system.threading.ratelimiting/9.0.1",
+      "hashPath": "system.threading.ratelimiting.9.0.1.nupkg.sha512"
     }
   }
 }

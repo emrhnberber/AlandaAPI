@@ -145,3 +145,5 @@ C:\VisualStudioProjeleri\AlandaAPI\AlandaProject.API\obj\Debug\net8.0\staticweba
 C:\VisualStudioProjeleri\AlandaAPI\AlandaProject.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\VisualStudioProjeleri\AlandaAPI\AlandaProject.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 C:\VisualStudioProjeleri\AlandaAPI\AlandaProject.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\VisualStudioProjeleri\AlandaAPI\AlandaProject.API\bin\Debug\net8.0\System.Threading.RateLimiting.dll
+C:\VisualStudioProjeleri\AlandaAPI\AlandaProject.API\obj\Debug\net8.0\AlandaProject.API.sourcelink.json

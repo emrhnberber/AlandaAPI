@@ -1207,6 +1207,22 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "System.Threading.RateLimiting/9.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/System.Threading.RateLimiting.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/System.Threading.RateLimiting.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net8.0/_._": {}
+        }
       }
     }
   },
@@ -3718,6 +3734,34 @@
         "system.threading.channels.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "System.Threading.RateLimiting/9.0.1": {
+      "sha512": "JyuDub2JSkvZzzfC2y4ciS7Eioug5Sn9boNJzSxCQatMrKULHxp8syNlWwAtQbk+ajqZyDc0HL+hK9Rb1w8gpA==",
+      "type": "package",
+      "path": "system.threading.ratelimiting/9.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "PACKAGE.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/System.Threading.RateLimiting.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net8.0/_._",
+        "buildTransitive/netcoreapp2.0/System.Threading.RateLimiting.targets",
+        "lib/net462/System.Threading.RateLimiting.dll",
+        "lib/net462/System.Threading.RateLimiting.xml",
+        "lib/net8.0/System.Threading.RateLimiting.dll",
+        "lib/net8.0/System.Threading.RateLimiting.xml",
+        "lib/net9.0/System.Threading.RateLimiting.dll",
+        "lib/net9.0/System.Threading.RateLimiting.xml",
+        "lib/netstandard2.0/System.Threading.RateLimiting.dll",
+        "lib/netstandard2.0/System.Threading.RateLimiting.xml",
+        "system.threading.ratelimiting.9.0.1.nupkg.sha512",
+        "system.threading.ratelimiting.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -3727,7 +3771,8 @@
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.1",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 9.0.3",
       "Swashbuckle.AspNetCore >= 6.6.2",
-      "System.IdentityModel.Tokens.Jwt >= 8.3.1"
+      "System.IdentityModel.Tokens.Jwt >= 8.3.1",
+      "System.Threading.RateLimiting >= 9.0.1"
     ]
   },
   "packageFolders": {
@@ -3808,6 +3853,10 @@
           "System.IdentityModel.Tokens.Jwt": {
             "target": "Package",
             "version": "[8.3.1, )"
+          },
+          "System.Threading.RateLimiting": {
+            "target": "Package",
+            "version": "[9.0.1, )"
           }
         },
         "imports": [
