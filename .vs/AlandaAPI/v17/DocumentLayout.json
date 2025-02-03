@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VisualStudioProjeleri\\AlandaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F00CA90D-5682-4085-94DF-AC31848FBE9E}|AlandaProject.API\\AlandaProject.API.csproj|c:\\visualstudioprojeleri\\alandaapi\\alandaproject.api\\controllers\\\u0130nfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00CA90D-5682-4085-94DF-AC31848FBE9E}|AlandaProject.API\\AlandaProject.API.csproj|solutionrelative:alandaproject.api\\controllers\\\u0130nfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00CA90D-5682-4085-94DF-AC31848FBE9E}|AlandaProject.API\\AlandaProject.API.csproj|c:\\visualstudioprojeleri\\alandaapi\\alandaproject.api\\controllers\\jwttestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00CA90D-5682-4085-94DF-AC31848FBE9E}|AlandaProject.API\\AlandaProject.API.csproj|solutionrelative:alandaproject.api\\controllers\\jwttestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00CA90D-5682-4085-94DF-AC31848FBE9E}|AlandaProject.API\\AlandaProject.API.csproj|c:\\visualstudioprojeleri\\alandaapi\\alandaproject.api\\dto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00CA90D-5682-4085-94DF-AC31848FBE9E}|AlandaProject.API\\AlandaProject.API.csproj|solutionrelative:alandaproject.api\\dto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00CA90D-5682-4085-94DF-AC31848FBE9E}|AlandaProject.API\\AlandaProject.API.csproj|c:\\visualstudioprojeleri\\alandaapi\\alandaproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F00CA90D-5682-4085-94DF-AC31848FBE9E}|AlandaProject.API\\AlandaProject.API.csproj|solutionrelative:alandaproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00CA90D-5682-4085-94DF-AC31848FBE9E}|AlandaProject.API\\AlandaProject.API.csproj|c:\\visualstudioprojeleri\\alandaapi\\alandaproject.api\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00CA90D-5682-4085-94DF-AC31848FBE9E}|AlandaProject.API\\AlandaProject.API.csproj|solutionrelative:alandaproject.api\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00CA90D-5682-4085-94DF-AC31848FBE9E}|AlandaProject.API\\AlandaProject.API.csproj|c:\\visualstudioprojeleri\\alandaapi\\alandaproject.api\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00CA90D-5682-4085-94DF-AC31848FBE9E}|AlandaProject.API\\AlandaProject.API.csproj|solutionrelative:alandaproject.api\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00CA90D-5682-4085-94DF-AC31848FBE9E}|AlandaProject.API\\AlandaProject.API.csproj|c:\\visualstudioprojeleri\\alandaapi\\alandaproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00CA90D-5682-4085-94DF-AC31848FBE9E}|AlandaProject.API\\AlandaProject.API.csproj|solutionrelative:alandaproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00CA90D-5682-4085-94DF-AC31848FBE9E}|AlandaProject.API\\AlandaProject.API.csproj|c:\\visualstudioprojeleri\\alandaapi\\alandaproject.api\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00CA90D-5682-4085-94DF-AC31848FBE9E}|AlandaProject.API\\AlandaProject.API.csproj|solutionrelative:alandaproject.api\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00CA90D-5682-4085-94DF-AC31848FBE9E}|AlandaProject.API\\AlandaProject.API.csproj|c:\\visualstudioprojeleri\\alandaapi\\alandaproject.api\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00CA90D-5682-4085-94DF-AC31848FBE9E}|AlandaProject.API\\AlandaProject.API.csproj|solutionrelative:alandaproject.api\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00CA90D-5682-4085-94DF-AC31848FBE9E}|AlandaProject.API\\AlandaProject.API.csproj|c:\\visualstudioprojeleri\\alandaapi\\alandaproject.api\\controllers\\userregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00CA90D-5682-4085-94DF-AC31848FBE9E}|AlandaProject.API\\AlandaProject.API.csproj|solutionrelative:alandaproject.api\\controllers\\userregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\AlandaAPI\\AlandaProject.API\\TokenService.cs",
+              "RelativeDocumentMoniker": "AlandaProject.API\\TokenService.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\AlandaAPI\\AlandaProject.API\\TokenService.cs",
+              "RelativeToolTip": "AlandaProject.API\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T20:52:15.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\AlandaAPI\\AlandaProject.API\\appsettings.json",
+              "RelativeDocumentMoniker": "AlandaProject.API\\appsettings.json",
+              "ToolTip": "C:\\VisualStudioProjeleri\\AlandaAPI\\AlandaProject.API\\appsettings.json",
+              "RelativeToolTip": "AlandaProject.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T20:49:28.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\AlandaAPI\\AlandaProject.API\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "AlandaProject.API\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\AlandaAPI\\AlandaProject.API\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "AlandaProject.API\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T20:49:22.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtTestController.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\AlandaAPI\\AlandaProject.API\\Controllers\\JwtTestController.cs",
+              "RelativeDocumentMoniker": "AlandaProject.API\\Controllers\\JwtTestController.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\AlandaAPI\\AlandaProject.API\\Controllers\\JwtTestController.cs",
+              "RelativeToolTip": "AlandaProject.API\\Controllers\\JwtTestController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAxwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T20:17:35.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\AlandaAPI\\AlandaProject.API\\Program.cs",
+              "RelativeDocumentMoniker": "AlandaProject.API\\Program.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\AlandaAPI\\AlandaProject.API\\Program.cs",
+              "RelativeToolTip": "AlandaProject.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T22:51:44.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserResponseDto.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\AlandaAPI\\AlandaProject.API\\DTO\\UserResponseDto.cs",
+              "RelativeDocumentMoniker": "AlandaProject.API\\DTO\\UserResponseDto.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\AlandaAPI\\AlandaProject.API\\DTO\\UserResponseDto.cs",
+              "RelativeToolTip": "AlandaProject.API\\DTO\\UserResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T21:45:58.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserLoginController.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\AlandaAPI\\AlandaProject.API\\Controllers\\UserLoginController.cs",
+              "RelativeDocumentMoniker": "AlandaProject.API\\Controllers\\UserLoginController.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\AlandaAPI\\AlandaProject.API\\Controllers\\UserLoginController.cs",
+              "RelativeToolTip": "AlandaProject.API\\Controllers\\UserLoginController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T21:41:01.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0130nfoController.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\AlandaAPI\\AlandaProject.API\\Controllers\\\u0130nfoController.cs",
+              "RelativeDocumentMoniker": "AlandaProject.API\\Controllers\\\u0130nfoController.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\AlandaAPI\\AlandaProject.API\\Controllers\\\u0130nfoController.cs",
+              "RelativeToolTip": "AlandaProject.API\\Controllers\\\u0130nfoController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwEIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T21:25:22.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRegisterController.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\AlandaAPI\\AlandaProject.API\\Controllers\\UserRegisterController.cs",
+              "RelativeDocumentMoniker": "AlandaProject.API\\Controllers\\UserRegisterController.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\AlandaAPI\\AlandaProject.API\\Controllers\\UserRegisterController.cs",
+              "RelativeToolTip": "AlandaProject.API\\Controllers\\UserRegisterController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T20:59:50.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\AlandaAPI\\AlandaProject.API\\DTO\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "AlandaProject.API\\DTO\\UserRegisterDto.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\AlandaAPI\\AlandaProject.API\\DTO\\UserRegisterDto.cs",
+              "RelativeToolTip": "AlandaProject.API\\DTO\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T20:56:18.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

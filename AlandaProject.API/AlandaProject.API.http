@@ -1,0 +1,6 @@
+@AlandaProject.API_HostAddress = http://localhost:5036
+
+GET {{AlandaProject.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
