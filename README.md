@@ -1,5 +1,10 @@
 # Alanda API
-Bu proje, Techİstanbul API Geliştirme Atölyesi Bitirme Ödevi için hazırlanmış olup mevcut startup projemiz içinde temel hazırlamaktadır.
+Bu depo, API Geliştirme ve Entegrasyonu Atölyesi kapsamındaki bitirme projesini içermektedir.
+
+## Detaylar
+Bu atölyeye katılma amacım, TechIstanbul Ön Kuluçka Programı başvurusu yaptığım startup projem için API geliştirmeyi öğrenmekti.
+
+Kod tabanı aktif olarak geliştirilmeye devam etmektedir. Bu nedenle, proje dosyalarında ödev kapsamının ötesinde ek geliştirmeler görebilirsiniz. Proje şu anda canlıya alınmış olup, Postman dokümantasyonunda belirtilen URL üzerinden erişilebilir durumdadır.
 
 ## 🛠️ Kullanılan Teknolojiler  
 - 🌐 **.NET CORE 7**: API Freamework.
